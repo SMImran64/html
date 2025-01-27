@@ -1,0 +1,26 @@
+
+nav{
+    height: 30vh;
+    width: 100%;
+}
+
+grid-cotainer{
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
+}
+#news{
+    background-color: chocolate;
+    text-align: center;
+}
+#power{
+    background-color: darkblue;
+    text-align: center;
+}
+#bs{
+    background-color: blueviolet;
+    text-align: center;
+}
+#brave{
+    background-color: chartreuse;
+    text-align: center;
+}
