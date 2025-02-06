@@ -1,0 +1,28 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+nav{
+    height: 10vh;
+    width: auto;
+    background-color: blueviolet;
+}
+
+#sidebar{
+    height: 90vh;
+    width: 20%;
+    background-color: rgb(154, 131, 175);
+    float: left;
+    
+}
+#content{
+    height: 90vh;
+    width: 80%;
+    float: right;
+}
+iframe{
+
+    height: inherit;
+    width: 100%;
+    display: block;
+}
