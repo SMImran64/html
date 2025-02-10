@@ -1,0 +1,28 @@
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+/* #navright{
+    float: right;
+    width: 80%;
+    height: 90vh;
+} */
+
+#manubar{
+    width: 20%;
+    height: 90vh;
+    background-color: #f77676;
+    float: left;
+}
+#content{
+    width: 80%;
+    height: 90vh;
+    justify-content: center;
+    float: right;
+}
+iframe{
+    width: 100%;
+    height: inherit;
+    display: block;
+}
